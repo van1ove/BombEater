@@ -1,5 +1,5 @@
 # BombEater
-$${\color{red} !!![All scripts in Assets/Scripts]!!!}$$
+$${\color{red} !!![All \space \space scripts \space in \space Assets/Scripts]!!!}$$
 
 Game "BombEater"
 
