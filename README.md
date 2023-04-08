@@ -1,4 +1,5 @@
 # BombEater
+<code style="color : red">text</code>
 !!![All scripts in Assets/Scripts]!!!
 
 Game "BombEater"
